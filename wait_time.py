@@ -1,3 +1,11 @@
+
+******************************
+CS 1026 - Assignment 1 – Healthcare Wait Time Optimizer: Megan Kim
+Student ID: mkim945
+File created: February 6, 2025
+******************************
+
+
 # Define constants
 VALID_SYMPTOMS = ["fever", "cough", "heart", "other"] # this is a list of the allowed symptoms
 VALID_URGENCY_LEVELS = ["1", "2", "3"] # this is the list of urgency levels
