@@ -5,11 +5,6 @@ CS 1026 - Assignment 1 – Healthcare Wait Time Optimizer: Megan Kim
 Student ID: mkim945
 File created: February 6, 2025
 ******************************
-This file is used to calculate monthly principal and interest amounts for a given mortgage
-total. It must calculate these values over X years using projected variations in interest rates.
-The final function prints out all the results in a structured table.
-
-
 This file is used to ask users for information such as symptoms they are facing, calculate wait times at hospitals, and compare wait times at different hospitals for each symptom so the user can go to the hospital with the shortest wait time. 
 """
 
